@@ -42,11 +42,11 @@ nav ul {
     padding-inline-start: 20px;
 }
 
-ul ul li {
+ul li {
     list-style-type: disc;
 }
 
-ul ul ul li {
+ul ul li {
     list-style-type: circle;
 }
 /* nav ends */
@@ -57,7 +57,7 @@ main {
     color: rgb(191, 215, 215);
     display: inline-block;
     border-radius: 15px;
-    width: 727px;
+    width: 747px;
     padding: 15px;
     margin: 5px;
 }
