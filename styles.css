@@ -1,0 +1,98 @@
+* {
+    box-sizing: border-box;
+    vertical-align: top;
+}
+
+/* wrapper */
+#wrapper {
+    background-color: rgb(18, 53, 91);
+    width: 970px;
+    margin: 5px auto;
+    padding: 5px;
+}
+
+/* heading */
+h1 {
+    background-color: rgb(215, 38, 56);
+    color: rgb(191, 215, 234);
+    border-radius: 10px;
+    margin: 5px;
+    padding: 15px;
+}
+
+/* nav begins */
+nav {
+    background-color: rgb(14, 126, 139);
+    display: inline-block;
+    border-radius: 15px;
+    margin: 5px;
+    padding: 8px;
+}
+
+nav a {
+    color: rgb(82, 222, 229);
+}
+
+#home {
+    list-style-type: none;
+}
+
+nav ul {
+    color: rgb(82, 222, 229);
+    padding-inline-start: 20px;
+}
+
+ul ul li {
+    list-style-type: disc;
+}
+
+ul ul ul li {
+    list-style-type: circle;
+}
+/* nav ends */
+
+/* main content begins */
+main {
+    background-color: rgb(12, 24, 33);
+    color: rgb(191, 215, 215);
+    display: inline-block;
+    border-radius: 15px;
+    width: 727px;
+    padding: 15px;
+    margin: 5px;
+}
+
+h2, p {
+    margin: 10px 0px;
+}
+
+main a {
+    color: rgb(82, 222, 209);
+}
+
+main li {
+    margin: 5px;
+}
+
+span {
+    color: rgb(12, 31, 171);
+}
+/* main ends */
+
+/* footer begins */
+footer {
+    background-color: rgb(92, 102, 114);
+    font-size: ;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 5px;
+}
+
+footer p {
+    color: rgb(191, 215, 234);
+}
+
+footer a {
+    color: rgb(83, 222, 229);
+}
+/* footer ends */
